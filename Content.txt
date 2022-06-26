@@ -1,0 +1,140 @@
+#DAY 2
+VS Code Extensions
+Live Server
+Prettier
+
+HTML Structure explanation
+
+-> What is a tag?
+-> What is a attribute?
+-> <heading>, <p> 
+-> <img>, <a> (attributes)
+-> CSS introduction
+-> without css demo
+
+3 types in css (importing in HTML)
+
+-> Inline
+-> Internal
+->External
+
+Trigger points
+-> id
+-> class
+id >> class
+
+#DAY 3
+-> table tag
+    <table>
+    <tr>
+        <td>
+    </tr>
+    <tr>
+        <td>
+    </tr>
+
+-> List tag
+    <ul>, <ol>
+        <li>
+
+-> div tag ****
+-> CSS Position Styling
+   Bordor - Done
+   Margin, Padding (explain using a div with border element)
+   css box model (bg-color,border,margin,padding,width)
+   css fonts, how to import from google fonts
+   css display (inline,block)
+   ****css position (static, relative - left,right, fixed, absolute)
+
+-> Bootstrap introduction
+
+#DAY 4
+
+-> Bootstrap Components Explore
+-> Javascript introduction and DOM 
+-> Syntax and programming, console.log, let, var, const, func, arrays
+-> document.getElementById(id), document.getElementsByClassName(name)
+-> element.innerHTML, element.style.property
+-> btn alerts, text content and color change (e-commerce eg)
+-> Form validation check
+-> events, addEventListener 
+document.getElementById("myBtn").addEventListener("click", function() {
+  alert("Hello World!");
+});
+
+JS is lightweighted!
+
+Declaring a variable
+let, var, const
+ let x = 10;
+ var y = 20;
+ const z = 30;
+
+Function Declaration
+function func_name(paramater){
+
+}
+
+arrays
+let myArr = ["x","y","z"];
+myArr[0] = x
+
+// TODO
+
+Create a Voting Age validation!
+
+#DAY 5
+
+-> JSON data
+-> API introduction
+-> HTTP Methods (GET,POST)
+-> CRUD Tech
+-> JS WEB APIs examples (geolocation)
+-> Number Game JS
+
+
+// TODO
+ -> Explore about HTTP Methods, status code
+ -> Download Postman
+
+
+JSON - JS Object Notation
+-> lightweighted data transfer medium
+[
+    {name: "value", email: "xyz", gender: ""},
+     {name: "value", email: "xyz", gender: ""},
+]
+
+API - Application programming Interface
+HTTP Methods: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+C - Create
+R - Read
+U - Update
+D - Delete
+
+
+#DAY 6
+
+-> JS Darkmode functions 
+-> Guess Gaming JS
+
+-> API Integration and Postman (Joke API)
+
+
+TODO
+-> Add the dark toggle in our default site created.
+-> Explore Number Guess Game
+-> Make a Joke Telling app! That should tell joke on each referesh
+(Implement using the api discussed into a website using JS fetch)
+
+#DAY 7
+
+-> Version Control
+-> GitHub
+
+-> Frameworks Dev 
+-> MERN Stack
+
+Certification Task
+-> Build a 
